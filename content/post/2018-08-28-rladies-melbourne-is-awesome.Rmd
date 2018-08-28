@@ -1,0 +1,20 @@
+---
+title: Rladies Melbourne is Awesome!!
+author: Emi Tanaka
+date: '2018-08-28'
+slug: rladawesome
+categories:
+  - R
+tags:
+  - blogdown
+---
+
+# This is a header
+
+This is content.
+
+```{r}
+plot(speed ~ dist, cars)
+```
+
+![](/post/2018-08-28-rladies-melbourne-is-awesome_files/rladies_logo.png){width=50%}
