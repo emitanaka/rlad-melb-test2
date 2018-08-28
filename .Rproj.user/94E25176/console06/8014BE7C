@@ -258,3 +258,37 @@ Branch master set up to track remote branch master from origin.
 [38;5;135memi [0mat [38;5;166mEmis-MacBook-Pro [0min [38;5;118m~/Dropbox (Personal)/Website/rladies-melb
 [0m$ git push -u origin master[C[C[C[C[C[Cremote add origin https://github.com/emmitanaka/rlad-melb-test2.git[A[C[C[C[C[C[C[13Pcommit -m "first message"
 [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd . [K
+]0;~/Dropbox (Personal)/Website/rladies-melb
+[38;5;135memi [0mat [38;5;166mEmis-MacBook-Pro [0min [38;5;118m~/Dropbox (Personal)/Website/rladies-melb
+[0m$ git add . push -u origin master[C[C[C[C[C[Cremote add origin https://github.com/emmitanaka/rlad-melb-test2.git[A[C[C[C[C[C[C[13Pcommit -m "first message"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"s"e"r"v"e"d"
+[master 54bb8df] served
+ Committer: Emi Tanaka <emi@Emis-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 101 insertions(+), 1 deletion(-)
+]0;~/Dropbox (Personal)/Website/rladies-melb
+[38;5;135memi [0mat [38;5;166mEmis-MacBook-Pro [0min [38;5;118m~/Dropbox (Personal)/Website/rladies-melb
+[0m$ git commit -m "served"[C[C[C[C[C[C[12Padd . push -u origin master
+Counting objects: 6, done.
+Delta compression using up to 4 threads.
+Compressing objects:  16% (1/6)   Compressing objects:  33% (2/6)   Compressing objects:  50% (3/6)   Compressing objects:  66% (4/6)   Compressing objects:  83% (5/6)   Compressing objects: 100% (6/6)   Compressing objects: 100% (6/6), done.
+Writing objects:  16% (1/6)   Writing objects:  33% (2/6)   Writing objects:  50% (3/6)   Writing objects:  66% (4/6)   Writing objects:  83% (5/6)   Writing objects: 100% (6/6)   Writing objects: 100% (6/6), 2.39 KiB | 2.39 MiB/s, done.
+Total 6 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/3)   [Kremote: Resolving deltas:  33% (1/3)   [Kremote: Resolving deltas:  66% (2/3)   [Kremote: Resolving deltas: 100% (3/3)   [Kremote: Resolving deltas: 100% (3/3), completed with 3 local objects.[K
+To https://github.com/emitanaka/rlad-melb-test2.git
+   2c58cde..54bb8df  master -> master
+Branch master set up to track remote branch master from origin.
+]0;~/Dropbox (Personal)/Website/rladies-melb
+[38;5;135memi [0mat [38;5;166mEmis-MacBook-Pro [0min [38;5;118m~/Dropbox (Personal)/Website/rladies-melb
+[0m$ [K[0m$ git add . 
